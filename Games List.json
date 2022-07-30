@@ -313,6 +313,27 @@
           "type": 1
         },
         {
+          "titlename": "Saints Row",
+          "titleimage": "saints_row",
+          "titleicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fsaintsrow%2Fimages%2F3%2F36%2FSaints_Row_box.jpg%2Frevision%2Flatest%3Fcb%3D20130506043746&f=1&nofb=1",
+          "titlebackground": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic3.srcdn.com%2Fwordpress%2Fwp-content%2Fuploads%2F2019%2F08%2FSaints-Row-Title.jpg&f=1&nofb=1",
+          "type": 1
+        },
+        {
+          "titlename": "Saints Row 2",
+          "titleimage": "saints_row2",
+          "titleicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.eXA80u4B5zC0ouw7k-ylGwHaKh%26pid%3DApi&f=1",
+          "titlebackground": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic1.thegamerimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2019%2F10%2FSaints-Row-2-Cover.jpg&f=1&nofb=1",
+          "type": 1
+        },
+        {
+          "titlename": "Tony Hawk's Project 8",
+          "titleimage": "thp8",
+          "titleicon": "http://media.gamestats.com/gg/image/object/803/803274/THP8_Xbox360_FinalBox.jpg",
+          "titlebackground": "http://1.bp.blogspot.com/_xtKVTo3QEUc/TKdvzLmg5bI/AAAAAAAAAB8/WdB2kYgZQRc/s1600/tony8.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Watch Dogs: Legion",
           "titleimage": "wd_legion",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0217/OX5mEmwgRPeSQrhGFU3n4moZ.png",
